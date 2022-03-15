@@ -14,9 +14,14 @@ Implementations are in the ```./UNETR/BCTV``` folder
 pip install notebook 
 pip install itkwidgets
 ```
-itkwidget: https://github.com/InsightSoftwareConsortium/itkwidgets
+
 
 ### Run
 
 To see results, simply run the ```./test.ipynb``` file.
+
+
+### Reference
+UNETR: https://github.com/Project-MONAI/research-contributions/tree/master/UNETR/BTCV
+itkwidget: https://github.com/InsightSoftwareConsortium/itkwidgets
 
