@@ -1,3 +1,21 @@
+## Functionalities
+Visualizations of input volume mapped with output segmentation labels
+
+<img width="825" alt="4" src="https://user-images.githubusercontent.com/76392270/158356434-504abae0-e94a-40c1-816c-102fb9e58107.png">
+
+
+
+Visualization of segmented organs only 
+
+<img width="812" alt="1" src="https://user-images.githubusercontent.com/76392270/158356476-90b8baf3-c82e-48f0-8d05-7321a8e3914d.png">
+
+
+Useful transfer function from itkwidget, supports slice view 
+
+<img width="755" alt="3" src="https://user-images.githubusercontent.com/76392270/158356517-da772633-0879-4155-8bba-2c31e365c5bd.png">
+
+
+
 ## User Instuctions
 
 Implementations are in the ```./UNETR/BCTV``` folder
